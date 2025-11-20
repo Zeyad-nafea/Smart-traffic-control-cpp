@@ -40,5 +40,4 @@
 ## Notes:
 - All queues (EV_Queue, PT_Queue, NC_Queue, FV_Queue, BFS_Queue) and priority queues (Event_Queue, EV_Queue) are derived from the base Queue/Priority Queue classes provided in labs.
 - EV_Queue is the only derived class with additional functions for priority calculation.
-- No global variables, friendship, or STL containers are used.
-- All lists store pointers to vehicles/events, not copies, for efficient memory management.
+
